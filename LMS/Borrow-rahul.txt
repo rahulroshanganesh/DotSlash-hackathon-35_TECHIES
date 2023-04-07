@@ -1,8 +1,0 @@
-               Library Management System  
-                   Borrowed By: rahul roshan
-    Date: 2023-04-07    Time:08:12:48.895103
-
-S.N. 		 Bookname 	      Authorname 
-1. 		Harry Potter		  Jk Rowling
-2. 		Harry Potter		  Jk Rowling
-3. 		Start With Why		  Simon Sinek
