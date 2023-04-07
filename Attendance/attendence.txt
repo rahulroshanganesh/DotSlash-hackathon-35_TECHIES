@@ -1,3 +1,0 @@
-.join(str(z))
-.join(str(z))
-.join(str(z))
