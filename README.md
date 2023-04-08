@@ -1,2 +1,2 @@
 # 35_TECHIES
-Dot./slash 
+Dot./slash Hackathon 
